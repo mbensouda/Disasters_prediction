@@ -6,4 +6,5 @@ A dataset of 10,000 tweets that were hand-classified is available.
 From this repository, I want to use the different libraries provided by Hugguing Face to learn:
 - load large-scale datasets to pytorch models
 - what are the different options to tokenize text
-- understand the model architectures and evaluate their performance in a simple task
+- fine-tuning different models 
+- understand the model architectures and evaluate their performance using a simple task
