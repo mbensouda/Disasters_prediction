@@ -1,4 +1,9 @@
-This is a github repository illutrating my journey for my first NLP project since a long time using transformer based architecture that predicts which Tweets are about real disasters and which ones are not.
+## Journey to master NLP and Hugging face libraries
 
-A dataset of 10,000 tweets that were hand classified is available.
+This GitHub repository illustrates my journey for my first NLP project in a long time ago using transformer-based architectures that predict which Tweets are about real disasters and which ones are not.
+A dataset of 10,000 tweets that were hand-classified is available.
 
+From this repository, I want to use the different libraries provided by Hugguing Face to learn:
+- load large-scale datasets to pytorch models
+- what are the different options to tokenize text
+- understand the model architectures and evaluate their performance in a simple task
