@@ -8,3 +8,6 @@ From this repository, I want to use the different libraries provided by Hugguing
 - what are the different options to tokenize text
 - fine-tuning different models 
 - understand the model architectures and evaluate their performance using a simple task
+
+
+To master my understanding of transformer-based architecture, I will summarize what I have learnt from [this blogpost](https://peterbloem.nl/blog/transformers). 
